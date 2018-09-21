@@ -15,12 +15,6 @@ fields:
   label: Thumbnail
   name: thumbnail
   description: 'Square image, Max 500 pixels '
-- name: role
-  label: Departments
-  type: list
-  hidden: true
-  default: staff
-  description: ''
 - name: email
   label: Email
   type: text
@@ -36,5 +30,9 @@ fields:
   type: text
   hidden: true
   default: person
+- type: tag_list
+  name: department
+  label: Department
+  description: Department
 pages:
 - _people/Phil.md
