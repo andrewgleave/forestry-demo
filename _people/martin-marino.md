@@ -9,6 +9,8 @@ thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: person
+department:
+- Sales
 
 ---
 Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
